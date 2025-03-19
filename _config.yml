@@ -18,16 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Ageish: Sandwich generation
+email: ageish@fameexpress.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ageish is your trusted resource for navigating the challenges of the Sandwich 
+  Generation—those balancing the care of aging parents while supporting their own
+  children. Our platform offers insightful and practical articles, guides, and
+  expert advice on senior living options, financial planning, healthcare decisions,
+  and emotional well-being. Whether you're exploring assisted living, aging-in-place
+  solutions, or seeking strategies to manage your dual caregiving role, Ageish empowers
+  you with the knowledge and tools to make informed decisions with confidence. Stay 
+  connected, stay prepared, and embrace this journey with clarity and support.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.ageish.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ageish_
 
 # Build settings
 theme: minima
