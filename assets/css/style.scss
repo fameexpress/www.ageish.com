@@ -1,0 +1,93 @@
+@import "minima";
+
+// Improved color scheme for better readability
+body {
+  color: #2c3338;  // Darker text color for better contrast
+  background-color: #ffffff;  // Pure white background
+}
+
+.site-title, .site-title:visited {
+  color: #1a1a1a;  // Almost black for the site title
+}
+
+.site-nav {
+  .page-link {
+    color: #2c3338;  // Matching body text color
+  }
+}
+
+.post-title {
+  color: #1a1a1a;  // Almost black for post titles
+}
+
+.post-meta {
+  color: #57646f;  // Darker gray for metadata, still maintaining sufficient contrast
+}
+
+.post-link {
+  color: #0366d6;  // GitHub-style blue for links
+  &:visited {
+    color: #0356b6;  // Slightly darker blue for visited links
+  }
+}
+
+a {
+  color: #0366d6;  // GitHub-style blue for all links
+  &:visited {
+    color: #0356b6;  // Slightly darker blue for visited links
+  }
+  &:hover {
+    color: #0246a2;  // Even darker blue for hover state
+    text-decoration: underline;
+  }
+}
+
+// Improved heading hierarchy colors
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1a;  // Almost black for headings
+}
+
+// List items and paragraph text
+p, li {
+  color: #2c3338;  // Maintaining the darker text color
+}
+
+// Footer styling
+.site-footer {
+  border-top: 1px solid #e1e4e8;
+
+  .footer-col-wrapper {
+    color: #57646f;  // Darker gray for footer text
+  }
+
+  .footer-col {
+    a {
+      color: #0366d6;  // Maintaining consistent link color
+    }
+  }
+}
+
+// Code blocks and inline code
+pre, code {
+  background-color: #f6f8fa;  // Light gray background for code
+  border: 1px solid #e1e4e8;  // Subtle border
+  color: #24292e;  // Dark color for code text
+}
+
+// Blockquotes
+blockquote {
+  color: #444d56;  // Darker color for blockquotes
+  border-left: 4px solid #0366d6;  // Blue accent matching links
+}
+
+// Table styles
+table {
+  th {
+    background-color: #f6f8fa;
+    border: 1px solid #e1e4e8;
+    color: #24292e;
+  }
+  td {
+    border: 1px solid #e1e4e8;
+  }
+}
