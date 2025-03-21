@@ -21,23 +21,26 @@
 title: "Ageish: Sandwich Generation Resources for Caregiving and Senior Living"
 email: ageish@fameexpress.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ageish is your trusted resource for navigating the challenges of the Sandwich 
+  Ageish is your trusted resource for navigating the challenges of the Sandwich
   Generation—those balancing the care of aging parents while supporting their own
   children. Our platform offers insightful and practical articles, guides, and
   expert advice on senior living options, financial planning, healthcare decisions,
   and emotional well-being. Whether you're exploring assisted living, aging-in-place
   solutions, or seeking strategies to manage your dual caregiving role, Ageish empowers
-  you with the knowledge and tools to make informed decisions with confidence. Stay 
+  you with the knowledge and tools to make informed decisions with confidence. Stay
   connected, stay prepared, and embrace this journey with clarity and support.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ageish.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ageish_
 permalink: /:title:output_ext
 
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default.
