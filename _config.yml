@@ -34,6 +34,20 @@ url: "https://www.ageish.com" # the base hostname & protocol for your site, e.g.
 twitter_username: ageish_
 permalink: /:title:output_ext
 
+# Social and SEO settings
+author: Ageish Team
+logo: /assets/images/logo.png
+lang: en_US
+social:
+  name: Ageish
+  links:
+    - https://twitter.com/ageish_
+    - https://www.facebook.com/ageish
+    - https://www.linkedin.com/company/ageish
+
+# Google Analytics - replace UA-XXXXXXXX-X with your tracking ID if using
+google_analytics: UA-XXXXXXXXX-X
+
 # Build settings
 theme: minima
 plugins:

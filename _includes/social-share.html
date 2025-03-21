@@ -1,0 +1,25 @@
+<div class="social-share">
+  <h4>Share this post:</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}" target="_blank" rel="noopener noreferrer">
+        Twitter
+      </a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer">
+        Facebook
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title | url_encode }}&summary={{ page.description | url_encode }}&source={{ site.title | url_encode }}" target="_blank" rel="noopener noreferrer">
+        LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="mailto:?subject={{ page.title | url_encode }}&body=Check out this article: {{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer">
+        Email
+      </a>
+    </li>
+  </ul>
+</div>
