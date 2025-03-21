@@ -4,7 +4,7 @@ title: "The Sandwich Generation: Navigating Dual Caregiving Responsibilities"
 date: 2024-03-20 13:00:00 -0700
 categories: caregiving
 author: ageish_team
-image: assets/images/sandwich-generation.jpg
+image: assets/images/sandwich-generation.webp
 tags: [caregiving, family, aging, sandwich generation]
 description: "An in-depth exploration of the sandwich generation, including its demographics, prevalence, and challenges"
 featured: true
