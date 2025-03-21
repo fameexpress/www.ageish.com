@@ -1,13 +1,10 @@
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize",
-  "minima/custom-styles";
+@import "minima";
 
 // Modern color palette
 $primary-color: #826a2c;        // Deep gold - trustworthy and professional
 $secondary-color: #4A5568;      // Slate gray - sophisticated
 $accent-color: #63B3ED;         // Light blue - friendly and approachable
-$text-color: #2D3748;           // Dark gray for better readability
+$text-color: #2D3748;          // Dark gray for better readability
 $background-color: #FFFFFF;      // Clean white background
 $light-gray: #EDF2F7;           // Light gray for subtle backgrounds
 $link-color: #ce4631;           // Bright red for links
