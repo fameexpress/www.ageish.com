@@ -11,6 +11,8 @@ permalink: /the-sandwich-generation/
 
 The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, creating a challenging balancing act of responsibilities. This demographic faces unique pressures as they manage the financial, emotional, and practical aspects of supporting multiple generations. Research indicates approximately 26% of American adults—about 67.8 million people—belong to this growing segment of society, highlighting its significance as both a personal and public policy concern[2].
 
+<!--more-->
+
 ## Understanding the Sandwich Generation
 
 ### Demographics and Prevalence

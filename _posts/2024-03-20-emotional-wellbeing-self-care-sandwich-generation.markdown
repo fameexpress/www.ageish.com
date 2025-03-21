@@ -11,6 +11,8 @@ permalink: /emotional-wellbeing-self-care-sandwich-generation/
 
 The emotional demands of simultaneously caring for aging parents and raising children can feel overwhelming. The "Sandwich Generation" faces unique emotional challenges that require proactive self-care and stress management strategies. This guide explores comprehensive methods to enhance your emotional well-being and provides practical self-care advice to help you manage these responsibilities sustainably.
 
+<!--more-->
+
 ## Understanding Caregiver Stress
 
 Caregivers often experience significant emotional challenges, including guilt from divided attention, anxiety related to important decision-making, depression due to overwhelming responsibilities, grief from changing family dynamics, and frustration or resentment toward family members. Physically, chronic stress can manifest as sleep disturbances, appetite changes, chronic fatigue, headaches, muscle tension, and even a weakened immune system. According to the American Psychological Association, recognizing these symptoms early is crucial for prevention and effective management ([source](https://www.apa.org/helpcenter/caregiver-stress)).
@@ -67,5 +69,5 @@ Start by choosing a single manageable area to improve, set achievable goals, cre
 
 ## Conclusion
 
-Taking care of yourself isn't selfish—it’s essential. Prioritizing emotional well-being and proactive self-care empowers you to manage the complexities of being part of the Sandwich Generation, ensuring you're equipped to provide meaningful care while finding fulfillment and joy in your role.
+Taking care of yourself isn't selfish—it's essential. Prioritizing emotional well-being and proactive self-care empowers you to manage the complexities of being part of the Sandwich Generation, ensuring you're equipped to provide meaningful care while finding fulfillment and joy in your role.
 

@@ -11,6 +11,8 @@ permalink: /comprehensive-guide-senior-living-options/
 
 Choosing the right living arrangement for aging parents is a critical decision for those in the Sandwich Generation, who balance caregiving responsibilities with their own lives. This guide aims to provide clarity on senior living options and offer practical strategies to ensure you make the best choice for your family.
 
+<!--more-->
+
 ## Understanding Senior Living Options
 
 ### 1. Aging in Place
@@ -53,7 +55,7 @@ Begin by researching facilities online through reviews, and seek recommendations
 
 Plan visits to multiple facilities at different times of day. Engage directly with staff, sample meals, and interact with current residents to gauge the community's culture and quality of life.
 
-Prepare critical questions regarding staffing ratios, emergency response plans, cost structures, included services, and residents’ rights. Additionally, thoroughly review contracts, possibly consulting a legal advisor, to avoid hidden fees and understand termination terms.
+Prepare critical questions regarding staffing ratios, emergency response plans, cost structures, included services, and residents' rights. Additionally, thoroughly review contracts, possibly consulting a legal advisor, to avoid hidden fees and understand termination terms.
 
 ## Red Flags to Watch For
 Be wary of facilities exhibiting high staff turnover, vague pricing details, neglected maintenance, restricted visiting hours, limited activities, and any signs of resident dissatisfaction. Trust your instincts when something doesn't feel right.
