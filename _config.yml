@@ -49,16 +49,38 @@ social:
 google_analytics: UA-XXXXXXXXX-X
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-paginate
 
-# Theme settings
-minima:
-  skin: classic
-  social_links:
-    twitter: ageish_
+# Mediumish theme settings
+paginate: 10
+paginate_path: /page:num/
+
+# Authors
+authors:
+  ageish_team:
+    name: Ageish Team
+    display_name: Ageish Team
+    gravatar:
+    email: ageish@fameexpress.com
+    web: https://www.ageish.com
+    twitter: https://twitter.com/ageish_
+    description: "The Ageish Team provides resources and support for the Sandwich Generation."
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Comment out or remove the minima section as we're no longer using it
+# minima:
+#   skin: classic
+#   social_links:
+#     twitter: ageish_
 
 excerpt_separator: <!--more-->
 

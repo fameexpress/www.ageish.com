@@ -3,8 +3,12 @@ layout: post
 title: "The Sandwich Generation: Navigating Dual Caregiving Responsibilities"
 date: 2024-03-20 13:00:00 -0700
 categories: caregiving
-author: Ageish Team
+author: ageish_team
+image: assets/images/sandwich-generation.jpg
+tags: [caregiving, family, aging, sandwich generation]
 description: "An in-depth exploration of the sandwich generation, including its demographics, prevalence, and challenges"
+featured: true
+hidden: false
 excerpt: "The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, creating a challenging balancing act of responsibilities. This demographic faces unique pressures as they manage the financial, emotional, and practical aspects of supporting multiple generations. Research indicates approximately 26% of American adults—about 67.8 million people—belong to this growing segment of society, highlighting its significance as both a personal and public policy concern."
 permalink: /the-sandwich-generation/
 ---
