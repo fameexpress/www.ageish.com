@@ -1,8 +1,4 @@
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize",
-  "minima/custom-styles";
-
+// Placeholder to allow defining custom styles that override everything else.
 // Modern color palette
 $primary-color: #826a2c;        // Deep gold - trustworthy and professional
 $secondary-color: #4A5568;      // Slate gray - sophisticated
@@ -115,13 +111,4 @@ pre, code {
 blockquote {
   border-left: 4px solid $accent-color;
   color: $secondary-color;
-}
-
-// Responsive improvements
-@media screen and (max-width: 800px) {
-  .site-nav {
-    background-color: white;
-    border: 1px solid $light-gray;
-    border-radius: 4px;
-  }
 }
