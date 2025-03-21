@@ -8,6 +8,19 @@
 	display:inline;
 }
 
+/* Style for navbar brand text */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+
+    .navbar-brand-text {
+        margin-left: 10px;
+        font-weight: 500;
+        font-size: 1.1rem;
+        color: #333;
+    }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
