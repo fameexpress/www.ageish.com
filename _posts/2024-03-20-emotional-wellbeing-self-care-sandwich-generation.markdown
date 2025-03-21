@@ -3,7 +3,7 @@ layout: post
 title: "Emotional Well-being and Self-Care: A Guide for the Sandwich Generation"
 date: 2024-03-20 12:00:00 -0700
 categories: mental-health self-care wellness
-author: Ageish Team
+author: ageish_team
 description: "Essential strategies for maintaining emotional health while caring for both aging parents and children"
 excerpt: "The emotional demands of simultaneously caring for aging parents and raising children can feel overwhelming. The 'Sandwich Generation' faces unique emotional challenges that require proactive self-care and stress management strategies. This guide explores comprehensive methods to enhance your emotional well-being and provides practical self-care advice to help you manage these responsibilities sustainably."
 permalink: /emotional-wellbeing-self-care-sandwich-generation/

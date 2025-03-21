@@ -3,7 +3,7 @@ layout: post
 title: "Essential Financial Planning Tips for the Sandwich Generation"
 date: 2024-03-20 09:00:00 -0700
 categories: finance caregiving
-author: Ageish Team
+author: ageish_team
 description: "A comprehensive guide to managing finances while caring for both aging parents and children"
 excerpt: "As a member of the Sandwich Generation, you're likely facing significant financial pressures from caring simultaneously for aging parents and growing children. Balancing these responsibilities can feel overwhelming, but with careful planning and structured financial strategies, it's possible to navigate these challenges effectively. This comprehensive guide will provide practical advice, resources, and actionable steps to help manage your financial well-being across multiple generations."
 permalink: /essential-financial-planning-tips-sandwich-generation/
