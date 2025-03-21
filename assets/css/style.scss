@@ -1,8 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 body {
-  background-color: #2aa4c9;
+  background-color: #ffffff;
+}
+
+.site-header {
+  background-color: #ffffff;
 }
