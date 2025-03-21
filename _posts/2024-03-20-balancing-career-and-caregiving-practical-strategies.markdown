@@ -5,6 +5,7 @@ date: 2024-03-20 11:00:00 -0700
 categories: work-life-balance caregiving career
 author: Ageish Team
 description: "Essential strategies and tips for managing a career while caring for both aging parents and children"
+excerpt: "For members of the Sandwich Generation, balancing career responsibilities alongside caregiving for both aging parents and children can feel overwhelming and isolating. You're not alone, and there are effective strategies to ease this demanding phase of life."
 permalink: /balancing-career-and-caregiving-practical-strategies/
 ---
 

@@ -5,6 +5,7 @@ date: 2024-03-20 10:00:00 -0700
 categories: senior-living caregiving
 author: Ageish Team
 description: "An in-depth exploration of senior living options, from aging in place to assisted living facilities"
+excerpt: "Choosing the right living arrangement for aging parents is a critical decision for those in the Sandwich Generation, who balance caregiving responsibilities with their own lives. This guide aims to provide clarity on senior living options and offer practical strategies to ensure you make the best choice for your family."
 permalink: /comprehensive-guide-senior-living-options/
 ---
 
