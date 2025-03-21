@@ -34,11 +34,17 @@ url: "https://www.ageish.com" # the base hostname & protocol for your site, e.g.
 twitter_username: ageish_
 permalink: /:title:output_ext
 
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
+minima:
+  skin: classic
+  social_links:
+    twitter: ageish_
 
 excerpt_separator: <!--more-->
 
@@ -50,14 +56,14 @@ excerpt_separator: <!--more-->
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
