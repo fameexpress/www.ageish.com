@@ -29,7 +29,7 @@ permalink: /:title:output_ext
 
 # Social and SEO settings
 author: Ageish Team
-logo: /assets/images/logo.png
+logo: /assets/images/logo.webp
 lang: en_US
 social:
   name: Ageish
