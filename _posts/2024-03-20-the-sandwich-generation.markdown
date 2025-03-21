@@ -5,11 +5,11 @@ date: 2024-03-20 13:00:00 -0700
 categories: caregiving
 author: Ageish Team
 description: "An in-depth exploration of the sandwich generation, including its demographics, prevalence, and challenges"
-excerpt: "The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, creating a challenging balancing act of responsibilities. This demographic faces unique pressures as they manage the financial, emotional, and practical aspects of supporting multiple generations. Research indicates approximately 26% of American adults—about 67.8 million people—belong to this growing segment of society, highlighting its significance as both a personal and public policy concern[^1]."
+excerpt: "The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, creating a challenging balancing act of responsibilities. This demographic faces unique pressures as they manage the financial, emotional, and practical aspects of supporting multiple generations. Research indicates approximately 26% of American adults—about 67.8 million people—belong to this growing segment of society, highlighting its significance as both a personal and public policy concern."
 permalink: /the-sandwich-generation/
 ---
 
-The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, creating a challenging balancing act of responsibilities. This demographic faces unique pressures as they manage the financial, emotional, and practical aspects of supporting multiple generations. Research indicates approximately 26% of American adults—about 67.8 million people—belong to this growing segment of society, highlighting its significance as both a personal and public policy concern[^2].
+The sandwich generation refers to middle-aged adults who simultaneously care for their aging parents and their own children, creating a challenging balancing act of responsibilities. This demographic faces unique pressures as they manage the financial, emotional, and practical aspects of supporting multiple generations. Research indicates approximately [26% of American adults—about 67.8 million](https://blog.hireahelper.com/2023-study-insights-into-americans-in-the-sandwich-generation/) people—belong to this growing segment of society, highlighting its significance as both a personal and public policy concern.
 
 <!--more-->
 
@@ -117,5 +117,3 @@ Understanding the nuanced experiences of different sandwich generation caregiver
 
 Looking forward, comprehensive approaches combining policy reforms, workplace accommodations, community supports, and technological innovations will be necessary to adequately support sandwich generation caregivers. By addressing these challenges effectively, we can improve outcomes not only for caregivers themselves but also for the older adults and children who depend on them, ultimately strengthening intergenerational connections and family well-being.
 
-[^1]: https://www.caregiveraction.org/sandwich-generation/
-[^2]: https://blog.hireahelper.com/2023-study-insights-into-americans-in-the-sandwich-generation/
